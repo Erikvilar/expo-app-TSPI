@@ -1,4 +1,4 @@
-# 🔐 Cross-Platform Authentication with Expo: Google & Apple Sign-In Example
+<!-- # 🔐 Cross-Platform Authentication with Expo: Google & Apple Sign-In Example
 
 This is an [Expo](https://expo.dev) project demonstrating a BFF (Backend-for-Frontend) architecture for Google authentication using Expo API Routes and JWTs.
 
@@ -145,4 +145,13 @@ For web-based Apple Sign In, you'll need to generate a client secret. This is a 
 ## Community
 
 - [Expo on GitHub](https://github.com/expo/expo)
-- [Expo Discord](https://chat.expo.dev)
+- [Expo Discord](https://chat.expo.dev) -->
+
+## Expo app forked from  <a href="https://github.com/betomoedano/expo-oauth-example"><b>Repository</b></a>
+
+  <a href="https://youtu.be/V2YdhR1hVNw">
+    <img src="https://miro.medium.com/v2/resize:fit:1024/1*wPKZnE6XTw-wtH2k-KARPg.png" height="380" alt="YouTube Video Preview">
+  </a>
+ 
+### Follow official <a href="https://docs.expo.dev/guides/google-authentication/"><b>Google sign-in Documentation</b></a>
+### Autor <a href="https://github.com/betomoedano"><b>@betomoedano</b></a>
