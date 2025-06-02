@@ -5,12 +5,12 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "betoauthexample",
+    "scheme": "expoerikauthexample",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.beto.expoauthexample",
+      "bundleIdentifier": "com.expoerik.expoauthexample",
       "usesAppleSignIn": true,
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
@@ -21,7 +21,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.beto.expoauthexample"
+      "package": "com.expoerik.expoauthexample"
     },
     "web": {
       "bundler": "metro",
@@ -32,7 +32,7 @@
       [
         "expo-router",
         {
-          "origin": "https://beto.dev"
+          "origin": "https://expoerik.dev"
         }
       ],
       [
@@ -45,15 +45,17 @@
         }
       ],
       "expo-secure-store",
-      "expo-apple-authentication"
+      "expo-apple-authentication",
+      "expo-font",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true
     },
-    "owner": "expo-production",
+    "owner": "expoerik",
     "extra": {
       "router": {
-        "origin": "https://beto-auth-example.expo.app"
+        "origin": "https://expoerik-auth-example.expo.app"
       },
       "eas": {
         "projectId": "53446019-1898-4ce4-a56e-d7c4a9c48b2b"
